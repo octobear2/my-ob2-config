@@ -1,0 +1,2 @@
+It would be a good idea to put solutions here, so you can test the autograder on the staff
+solutions.

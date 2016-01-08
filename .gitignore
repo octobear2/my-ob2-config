@@ -1,0 +1,4 @@
+*.DS_Store
+*.pyc
+*.swp
+/inst_account_forms/*.pdf
